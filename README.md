@@ -22,8 +22,7 @@ An **AI Program Advisor** that:
 - Understands intent (career switch, leadership, student, etc.)
 - Recommends relevant Iron Lady programs
 
-🖥 UI Preview
-![Task 1 UI](images/task1-ui.png)
+
 
 ✨ Key Features
 - Interactive advisor interface
@@ -46,9 +45,6 @@ An **Internal Learner Management Dashboard** that:
 - Digitizes learner records
 - Simplifies internal operations
 - Supports complete CRUD functionality
-
-🖥 UI Preview
-![Task 2 UI](images/task2-ui.png)
 
 ✨ Key Features
 - Add new learners
