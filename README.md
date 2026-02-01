@@ -73,3 +73,7 @@ Task 2
 cd task2-internal-ui
 pip install -r requirements.txt
 streamlit run app.py
+
+🎥 Demo Videos
+- Task 1 Demo: (https://drive.google.com/file/d/1zUjMtJ2Jv2ngsss7n-JTw1kTsXsmXn5W/view?usp=drivesdk)
+- Task 2 Demo: (https://drive.google.com/file/d/1f6eVZF8_eLeh6mEsRz3fT5ma7sBMzhmW/view?usp=drivesdk)
